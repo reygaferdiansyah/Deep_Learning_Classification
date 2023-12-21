@@ -78,9 +78,13 @@ Accuracy : 97.88%
 Loss     : 0.112
 
 ## VGG16
-![image](https://github.com/reygaferdiansyah/Deep_Learning_Classification_CNN/assets/54634029/f7f16c4b-c7c0-443e-8716-050d9e89c788)
+![image](https://github.com/reygaferdiansyah/Deep_Learning_Classification_CNN/assets/54634029/12997449-2006-4150-be8e-14bafbb8ca86)
 
 Accuracy : 99.39%
 Loss     : 0.036
+
+![image](https://github.com/reygaferdiansyah/Deep_Learning_Classification_CNN/assets/54634029/f7f16c4b-c7c0-443e-8716-050d9e89c788)
+
+
 
 
