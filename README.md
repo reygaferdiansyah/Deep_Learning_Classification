@@ -34,8 +34,11 @@ The dataset consists of a collection of annotated wayang kulit images. Ensure th
 Reff :
 
 https://www.kaggle.com/vincee/intel-image-classification-cnn-keras
+
 https://github.com/alamehan/skripsi-cnn-anggrek.git
+
 https://debuggercafe.com/wild-cats-image-classification-using-deep-learning/
+
 https://machinelearningmastery.com/model-averaging-ensemble-for-deep-learning-neural-networks/
 
 ## Model Architecture
