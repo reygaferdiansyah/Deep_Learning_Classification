@@ -31,6 +31,13 @@ Before you begin, make sure you have:
 
 The dataset consists of a collection of annotated wayang kulit images. Ensure that the dataset is appropriately prepared for training.
 
+Reff :
+
+https://www.kaggle.com/vincee/intel-image-classification-cnn-keras
+https://github.com/alamehan/skripsi-cnn-anggrek.git
+https://debuggercafe.com/wild-cats-image-classification-using-deep-learning/
+https://machinelearningmastery.com/model-averaging-ensemble-for-deep-learning-neural-networks/
+
 ## Model Architecture
 
 The CNN model architecture is designed for image classification tasks. Details about the architecture can be found in the `model_architecture.py` file.
